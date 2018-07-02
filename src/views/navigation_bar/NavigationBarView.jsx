@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid,Row,Col } from 'react-bootstrap';
+import { Grid } from 'react-bootstrap';
 import NavigationBar from '../../components/navigationbar/Navigationbar.jsx';
 
 

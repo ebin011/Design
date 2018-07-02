@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid,Row,Col } from 'react-bootstrap';
-import Card from '../../components/card/Card.jsx';
+
 import DataCard from '../../components/data_card/DataCard.jsx';
 import OverlayImage from '../../components/overlay-image/OverlayImage.jsx';
 import ServiceImages from '../../assessets/images/computer-room.jpg';
@@ -9,11 +9,6 @@ class Ideology extends Component {
 
   render() {
 
-    const absStyle = {
-          position:'absolute',
-          top:'40px',
-          left:"40px"
-        };
     return (
       <Grid>
         <Row className="show-grid top-padding-50">

@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
 import { Grid,Row,Col } from 'react-bootstrap';
 import {DropdownButton,MenuItem} from 'react-bootstrap';
-import Card from '../../components/card/Card.jsx';
-import DataCard from '../../components/data_card/DataCard.jsx';
-import OverlayImage from '../../components/overlay-image/OverlayImage.jsx';
 import ImageGallery from '../../components/image_gallery/ImageGallery.jsx';
-import ServiceImages from '../../assessets/images/computer-room.jpg';
+
 
 class ImageFilter extends Component {
 

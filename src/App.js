@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import NavigationBar from './views/navigation_bar/NavigationBarView.jsx';
 import Home from './views/home/Home.jsx';
